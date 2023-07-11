@@ -12,49 +12,6 @@
     "status": 200,
     "message": "Success",
     "data": {
-      "course": {
-        "id": "1",
-        "nama": "Pengenalan Listrik Secara Umum",
-        "keterangan": "Untuk pengertian listrik secara umum listrik adalah aliran elektron-elektron dari atom ke atom",
-        "status": "aktif",
-        "thumbnail": "https://is3.cloudhost.id/e-learning-ar/course/thumbnail/1687761268_73811d41bcda2f9355fc.jpg",
-        "is_auth": "tidak",
-        "created_at": "2023-05-29 00:00:00",
-        "rating": {
-          "total_rating": 2,
-          "jumlah_rating": 9,
-          "total_all_rating": 1,
-          "persentase_rating_1": 0,
-          "persentase_rating_2": 0,
-          "persentase_rating_3": 0,
-          "persentase_rating_4": 50,
-          "persentase_rating_5": 50,
-          "rating_1": 0,
-          "rating_2": 0,
-          "rating_3": 0,
-          "rating_4": 1,
-          "rating_5": 1
-        },
-        "review": [{
-            "avatar": "default.png",
-            "nama": "Bugam Agustinus",
-            "id": "1",
-            "rating": "5",
-            "review": "Kursus sangat membantu",
-            "is_view": "ya",
-            "created_at": "2023-06-26 07:37:22"
-          },
-          {
-            "avatar": null,
-            "nama": "user baru",
-            "id": "3",
-            "rating": "4",
-            "review": "Bagus",
-            "is_view": "ya",
-            "created_at": "2023-06-26 07:38:44"
-          }
-        ]
-      },
       "lesson": [{
           "header": "Bab 1",
           "data": [{
