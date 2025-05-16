@@ -5,29 +5,29 @@
     "data": {
       "variants": [
         {
-          "variant_id": "variant-1",
+          "variant_id": "1",
           "name": "Size",
           "type": ["S", "M", "L", "XL", "XXL"]
         },
         {
-          "variant_id": "variant-2",
+          "variant_id": "2",
           "name": "Color",
           "type": ["Red", "Blue", "Green", "Yellow", "Black"]
         }
       ],
       "brands": [
         {
-          "brand_id": "brand-1",
+          "brand_id": "1",
           "name": "Nike",
           "country": "USA"
         },
         {
-          "brand_id": "brand-2",
+          "brand_id": "2",
           "name": "Adidas",
           "country": "Germany"
         },
         {
-          "brand_id": "brand-3",
+          "brand_id": "3",
           "name": "Puma",
           "country": "Germany"
         }
