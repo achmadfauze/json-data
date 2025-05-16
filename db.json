@@ -4,34 +4,34 @@
     "message": "Success",
     "data": {
       "variants": [
-    {
-      "variant_id": "variant-1",
-      "name": "Size",
-      "type": ["S", "M", "L", "XL", "XXL"]
-    },
-    {
-      "variant_id": "variant-2",
-      "name": "Color",
-      "type": ["Red", "Blue", "Green", "Yellow", "Black"]
-    }
-  ],
-  "brands": [
-    {
-      "brand_id": "brand-1",
-      "name": "Nike",
-      "country": "USA"
-    },
-    {
-      "brand_id": "brand-2",
-      "name": "Adidas",
-      "country": "Germany"
-    },
-    {
-      "brand_id": "brand-3",
-      "name": "Puma",
-      "country": "Germany"
-    }
-  ]
+        {
+          "variant_id": "variant-1",
+          "name": "Size",
+          "type": ["S", "M", "L", "XL", "XXL"]
+        },
+        {
+          "variant_id": "variant-2",
+          "name": "Color",
+          "type": ["Red", "Blue", "Green", "Yellow", "Black"]
+        }
+      ],
+      "brands": [
+        {
+          "brand_id": "brand-1",
+          "name": "Nike",
+          "country": "USA"
+        },
+        {
+          "brand_id": "brand-2",
+          "name": "Adidas",
+          "country": "Germany"
+        },
+        {
+          "brand_id": "brand-3",
+          "name": "Puma",
+          "country": "Germany"
+        }
+      ]
     }
   }
 }
